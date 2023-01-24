@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carol-tsai
-- 👀 I’m interested in Wed Development, GIS, Sustainability, and Environmentalism 🍃
-- 🌱 I’m currently learning C#/.NET
+- 👀 I’m interested in Web Development, Shopify, GIS, Sustainability, and Environmentalism 🍃
+- 🌱 I’m currently learning NodeJS and PHP
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: caroltsai.dev@gmail.com
 
